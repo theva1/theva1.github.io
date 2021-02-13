@@ -19,19 +19,23 @@ a small {
  color:#EFF1F5;
 }
 a:hover small {
- color:#EBCB8B
+ color:#EBCB8B;
+}
+
+p {
+ color: #B48EAD;
 }
 
 /* body means everything, the default for the page */
 body {
  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
- font-size: 105%;
+ /*font-size: 105%;*/
  background-color: #65737E;
 }
 
 /* these are the headers */
 h1, h2, h3, h4, h5, h6 {
- letter-spacing: -0.08em;
+ /*letter-spacing: -0.08em;*/
 }
 
 
