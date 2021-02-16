@@ -1,4 +1,4 @@
-# Project 3.
+# Project 3
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
