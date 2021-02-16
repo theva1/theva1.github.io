@@ -5,14 +5,17 @@
 [Project 1](projects/project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <p>This will be project 1.</p>
+
 ---
 [Project 2](/projects/project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <p>This will be project 2.</p>
+
 ---
 [Project 3](/projects/project3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <p>This will be project 3. </p>
+
 ---
 
 
