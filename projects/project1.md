@@ -1,4 +1,4 @@
-# This will be project 1.
+# Project 1
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
