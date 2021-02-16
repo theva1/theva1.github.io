@@ -1,9 +1,6 @@
-## My portfolio
-###### :construction: under construction :construction:
+## My portfolio (under construction)
 
 ---
-
-### Category Name 1 
 
 [Project 1 Title](projects/project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
